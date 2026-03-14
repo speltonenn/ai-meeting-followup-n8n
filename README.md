@@ -13,5 +13,3 @@ Meeting transcript
 → Email sends meeting summary  
 
 Built with n8n while exploring workflow automation.
-
-## Example Workflow
