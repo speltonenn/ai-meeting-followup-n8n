@@ -7,9 +7,9 @@ This workflow extracts action items from meeting transcripts and distributes the
 
 Flow:
 
-Meeting transcript  
+Submit Meeting transcript  
 → AI extracts tasks and summary  
 → Slack sends individual to-dos  
-→ Email sends meeting summary  
+→ Email sends meeting summary to participants
 
 Built with n8n while exploring workflow automation.
